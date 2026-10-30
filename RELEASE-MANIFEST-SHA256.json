@@ -2,7 +2,7 @@
   "format": "ht-public-release-sha256/1",
   "prepared_on": "2026-10-30",
   "frozen_profile_version": "0.1_UNCHANGED",
-  "publication": "Public documentation package; sharing-readiness editorial update",
+  "publication": "Public documentation package; Portable Contract Results branding",
   "license": "CC-BY-4.0",
   "files": {
     ".github/ISSUE_TEMPLATE/feedback.md": {
@@ -22,8 +22,8 @@
       "bytes": 18657
     },
     "README.md": {
-      "sha256": "1cc7b60d53383bfd3620545e8fbf0d954b7a01791ce97be70bfb15cb383f8c11",
-      "bytes": 5117
+      "sha256": "4cfd8158e27e229079a196864f810ce51eddc050f177be3daa57746c032395ba",
+      "bytes": 5385
     },
     "RESULTS.md": {
       "sha256": "e0a716a17b81dfc4c422060c2e6b5e3105f90cc698bf6671c1a4e6210305e937",
@@ -61,5 +61,7 @@
   "excludes": [
     "RELEASE-MANIFEST-SHA256.json"
   ],
-  "editorial_update_on": "2026-10-30"
+  "editorial_update_on": "2026-10-30",
+  "public_project_name": "Portable Contract Results",
+  "repository_url": "https://github.com/Dessos/portable-contract-results"
 }

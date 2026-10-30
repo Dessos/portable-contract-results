@@ -1,4 +1,6 @@
-# HOLY TRINITY — Contract-Consequence Profile
+# Portable Contract Results
+
+An experimental profile for reproducing contractual results across software providers.
 
 Changing software providers should not erase how a contractual result was derived.
 
@@ -54,8 +56,10 @@ Public feedback can improve scrutiny and identify interested practitioners. It c
 
 ## Versioning and license
 
+Portable Contract Results is the public name for this profile. The frozen v0.1 documents retain their original HOLY TRINITY titles and filenames.
+
 Treat the four original files under profile/v0.1 as unchanged release records. Report concerns through issues; proposed changes require an explicit later version and the evidence gate described in CONTRIBUTING.md.
 
 The project documentation, profile, corpus and included reports are licensed under [Creative Commons Attribution 4.0 International](LICENSE). You may share and adapt the material, including commercially, with appropriate attribution and an indication of changes.
 
-For attribution, identify HOLY TRINITY — Contract-Consequence Profile, link to https://github.com/Dessos/holy-trinity-profile, identify the version used, and note modifications. The license governs reuse; the frozen hashes identify the canonical v0.1 technical artifacts. Modified derivatives should be identified separately from those originals.
+For attribution, identify Portable Contract Results, link to https://github.com/Dessos/portable-contract-results, identify the version used, and note modifications. The license governs reuse; the frozen hashes identify the canonical v0.1 technical artifacts. Modified derivatives should be identified separately from those originals.
