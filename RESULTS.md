@@ -2,6 +2,8 @@
 
 This is an editorial account of retained project records, prepared 2026-10-30. The three linked JSON files are byte-identical copies of selected independent summaries. This account is not a new independent evaluation.
 
+**Research provenance:** the original Alpha/Beta implementation and initial evaluation launch records describe separate AI-agent sessions with isolation controls. The independent labels refer to experimental context separation under the documented assurance limits; they are not evidence of external human peer review or organizational independence. The controller records used for this provenance note are retained privately.
+
 | Evidence category | Recorded result | Exact scope |
 |---|---|---|
 | [Original independent assessment](evidence/initial-independent-summary.json), 2026-10-22 | Per build: Level 1 PASS; required behavior and tested lineage PASS; Level 2 25 PASS / 2 UNRESOLVED; Level 3 then NOT_RUN. | 17 groups / 27 runs per implementation. |

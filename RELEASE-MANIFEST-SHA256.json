@@ -2,7 +2,7 @@
   "format": "ht-public-release-sha256/1",
   "prepared_on": "2026-10-30",
   "frozen_profile_version": "0.1_UNCHANGED",
-  "publication": "Initial public documentation package",
+  "publication": "Public documentation package; sharing-readiness editorial update",
   "license": "CC-BY-4.0",
   "files": {
     ".github/ISSUE_TEMPLATE/feedback.md": {
@@ -22,12 +22,12 @@
       "bytes": 18657
     },
     "README.md": {
-      "sha256": "d8e4226ff021818a2caf5be459ea38ef970f74dd830429a7803d046e467ddbcd",
-      "bytes": 4263
+      "sha256": "1cc7b60d53383bfd3620545e8fbf0d954b7a01791ce97be70bfb15cb383f8c11",
+      "bytes": 5117
     },
     "RESULTS.md": {
-      "sha256": "db64ea6fd9a9f1c9979a66e7d3b6fbfe045014b9ce765300ae4a79dfd0e6cbee",
-      "bytes": 3798
+      "sha256": "e0a716a17b81dfc4c422060c2e6b5e3105f90cc698bf6671c1a4e6210305e937",
+      "bytes": 4226
     },
     "evidence/gen-alpha-to-beta-summary.json": {
       "sha256": "0446986f9dffd53dffc6f96171fe1c14385db233588e5943b5691b7c196105c4",
@@ -60,5 +60,6 @@
   },
   "excludes": [
     "RELEASE-MANIFEST-SHA256.json"
-  ]
+  ],
+  "editorial_update_on": "2026-10-30"
 }

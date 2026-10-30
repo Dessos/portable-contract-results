@@ -1,14 +1,18 @@
 # HOLY TRINITY — Contract-Consequence Profile
 
-An experimental six-role profile for keeping modeled contractual consequences reproducible when software providers change.
+Changing software providers should not erase how a contractual result was derived.
+
+This AI-assisted research project explores a small profile for reproducing covered results from already modeled, authoritative terms and evidence.
 
 **Experimental research profile — frozen v0.1.** The technical profile and semantic corpus are unchanged by this publication.
 
 ## The question
 
-Can independent implementations take equivalent authoritative modeled inputs and equivalent objective rule meaning, then produce equivalent consequences or the same defined escalation, with a durable material basis?
+What must a replacement provider receive to reproduce a contractual result—or identify the same reason to escalate—without the previous provider's private reasoning?
 
-For example, an accepted delivery and an exactly linked credit may affect a purchase commitment. The result must retain the contract version, scope, rules and evidence that made that effect valid. A missing human determination must remain unresolved; supplying one does not erase its adjudicated origin.
+In the existing synthetic [corpus example](profile/v0.1/HT-Reference-Consequence-Corpus-v0.1.md), section 23, an annual minimum is 10,000 units. A recognized delivery contributes 6,500 units toward that obligation; a linked 500-unit credit offsets that specific contribution. The expected result is 6,000 qualifying units and 4,000 units remaining.
+
+Those numbers assume the case's authoritative state, scope, rules and qualification bindings. A replacement must retain that material basis as well as reproduce the arithmetic. A missing material determination stays unresolved; a result that depends on an adjudicated determination retains that provenance.
 
 The six roles are ContractStateAnchor, NormativePosition, ObjectiveRule, EvidenceAssertion, QualificationRelation and ConsequenceAssertion. They describe required meaning while leaving schemas, rule languages and storage local.
 
@@ -24,19 +28,21 @@ The corpus has five canonical scenario groups and twelve adversarial variants. I
 
 ## Current evidence
 
-The bounded synthetic validation phase is complete. The retained independent summaries and the later controller conclusions have different scopes and are described separately in RESULTS.md.
+The bounded synthetic validation phase is complete. The original implementation and initial evaluation records describe separate, isolated AI-agent sessions. “Independent” refers to that experimental separation, subject to the documented assurance limits. External human peer review has not been established.
+
+The retained independent summaries and the later controller conclusions have different scopes and are described separately in RESULTS.md.
 
 This repository includes selected result summaries, not the implementation code, complete executable inputs, full audit trail or private controller history. Prior experiments cannot be rerun from this repository alone.
 
-## Useful contributions
+## Feedback we are seeking
 
-We are interested in three concrete questions:
+For a first review, start with the example above, then the profile and results. AI-agent developers, contract-automation engineers, and practitioners who reconcile contractual obligations can help answer three questions:
 
 1. Can an existing contract workflow supply the recognized state, rule meaning, evidence, qualification and coverage needed for one useful consequence?
 2. Can independent mappings reproduce the consequence and its material basis without private clarification?
 3. Does this improve an actual process compared with ordinary document review and reconciliation?
 
-An issue can identify a missing source, an ambiguous modeling step, an observed semantic disagreement or a potential application. Please separate published facts, proposed interpretation, actual reviewer confirmation and unknowns.
+Please open an issue with one concrete criticism, missing source or workflow example. No implementation is required to provide feedback. Separate published facts, proposed interpretation, actual reviewer confirmation and unknowns.
 
 ## Scope
 
