@@ -28,7 +28,7 @@ The corpus has five canonical scenario groups and twelve adversarial variants. I
 
 ## Current evidence
 
-The bounded synthetic validation phase is complete. The original implementation and initial evaluation records describe separate, isolated AI-agent sessions. “Independent” refers to that experimental separation, subject to the documented assurance limits. External human peer review has not been established.
+The bounded synthetic validation phase is complete. The original implementation and initial evaluation records describe separate, isolated AI-agent sessions. “Independent” refers to that experimental separation, subject to the documented assurance limits. This is early AI-assisted research. We’re seeking independent review from technical and contract-domain practitioners.
 
 The retained independent summaries and the later controller conclusions have different scopes and are described separately in RESULTS.md.
 
