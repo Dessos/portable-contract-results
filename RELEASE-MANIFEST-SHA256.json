@@ -1,0 +1,64 @@
+{
+  "format": "ht-public-release-sha256/1",
+  "prepared_on": "2026-10-30",
+  "frozen_profile_version": "0.1_UNCHANGED",
+  "publication": "Initial public documentation package",
+  "license": "CC-BY-4.0",
+  "files": {
+    ".github/ISSUE_TEMPLATE/feedback.md": {
+      "sha256": "c820fb7aea6db21d42ef270522f0fd384e46c5711c7c450c20ff361678a0d790",
+      "bytes": 1031
+    },
+    ".gitignore": {
+      "sha256": "f1296b1789e720ce64fa4260646ee7286ef2ae329954ea5d948481980f48e5b0",
+      "bytes": 177
+    },
+    "CONTRIBUTING.md": {
+      "sha256": "6ccad26ef7ae215efef71fd326115641cc6b6af8e6bfff497b1777409139e811",
+      "bytes": 2327
+    },
+    "LICENSE": {
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "bytes": 18657
+    },
+    "README.md": {
+      "sha256": "d8e4226ff021818a2caf5be459ea38ef970f74dd830429a7803d046e467ddbcd",
+      "bytes": 4263
+    },
+    "RESULTS.md": {
+      "sha256": "db64ea6fd9a9f1c9979a66e7d3b6fbfe045014b9ce765300ae4a79dfd0e6cbee",
+      "bytes": 3798
+    },
+    "evidence/gen-alpha-to-beta-summary.json": {
+      "sha256": "0446986f9dffd53dffc6f96171fe1c14385db233588e5943b5691b7c196105c4",
+      "bytes": 6735
+    },
+    "evidence/gen-beta-to-alpha-summary.json": {
+      "sha256": "a112b770937d711b2730c260c5034ec0c8beafa4734af26c9a9271fee8987e36",
+      "bytes": 4418
+    },
+    "evidence/initial-independent-summary.json": {
+      "sha256": "9e646c8bcd16f4cc05cb4267023d6f0979b6d778754bf925c7baceddb0cf08f5",
+      "bytes": 1362
+    },
+    "profile/v0.1/HT-Dual-Implementation-Frozen-Package-v0.1-MANIFEST.txt": {
+      "sha256": "334401fbff6dd8d8854e113748ce8b7c62012c4f375eb9c94bb19d66e95c0871",
+      "bytes": 467
+    },
+    "profile/v0.1/HT-Dual-Implementation-Frozen-Package-v0.1.zip": {
+      "sha256": "bffe658c4bf711308ad25e11db5cae6eb380f8f866ee6fe6292c77a1ba253fa0",
+      "bytes": 8527
+    },
+    "profile/v0.1/HT-Minimum-Normative-Profile-Draft-0.1.md": {
+      "sha256": "6df464b770069c7f9f2184b319bf706d0eecb5d4bf7c40d486abadb7a3e0b09a",
+      "bytes": 8659
+    },
+    "profile/v0.1/HT-Reference-Consequence-Corpus-v0.1.md": {
+      "sha256": "51aef8459ccafc1723c9419991614ff6bc3a80bf877cd11b9615b5876f18f21d",
+      "bytes": 11320
+    }
+  },
+  "excludes": [
+    "RELEASE-MANIFEST-SHA256.json"
+  ]
+}

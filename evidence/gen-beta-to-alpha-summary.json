@@ -1,0 +1,118 @@
+{
+  "assessment": "PASS_ADAPTED_EXACT_SCOPE_WITH_NATIVE_IMPORT_CAPABILITY_FAILURE",
+  "scope": "GEN-v0.1 Stage B Beta->Alpha exact six approved core runs, two groups, ten consequences",
+  "review_only": true,
+  "native": {
+    "import": "FAIL",
+    "process_exit_code": 2,
+    "semantics": "NOT_RUN",
+    "lineage": "NOT_RUN",
+    "reconstruction": "NOT_RUN",
+    "process": "FAIL"
+  },
+  "adapted": {
+    "import": "PASS",
+    "process_exit_code": 0,
+    "semantics": "PASS",
+    "lineage": "PASS",
+    "reconstruction": "PASS",
+    "evidence_valid": true,
+    "process": "PASS"
+  },
+  "core_runs_passed": 6,
+  "consequences_passed": 10,
+  "six_dimensions": [
+    "target",
+    "exact typed value/state",
+    "unit",
+    "effective scope/query/boundaries",
+    "computed/adjudicated classification",
+    "material authoritative basis"
+  ],
+  "evidence_valid": true,
+  "evidence_validity_basis": "Valid for bounded static/receipt-based assessment; no claim of independent live OS/file-open witnessing or authenticated absent origin archives.",
+  "Alpha_computed_using_original_modeled_rules_and_preexisting_sealed_catalogue": true,
+  "Beta_program_definitions_retained_whole_but_not_executed_by_Alpha": true,
+  "arbitrary_Beta_program_language_equivalence": false,
+  "native_format_support_demonstrated": false,
+  "attempt_counts": {
+    "native": {
+      "used": 1,
+      "maximum": 1
+    },
+    "adapted": {
+      "used": 1,
+      "maximum": 1
+    },
+    "structural_development": {
+      "used": 1,
+      "maximum": 2,
+      "unused": 1
+    },
+    "independent_reproduction": {
+      "used": 1,
+      "maximum": 1
+    },
+    "GX01": {
+      "used": 0,
+      "maximum": 0
+    },
+    "evaluator_engine_adapter_import_build_runner_test_executions": 0
+  },
+  "all_historical_allowances": "Remain consumed; no restoration",
+  "GX01_budget": 0,
+  "further_testing_automatic": false,
+  "semantic_discrepancies": [],
+  "capability_gaps": [
+    "Native Beta-format envelope unsupported",
+    "Beta-program language not read/executed by Alpha; only original exact modeled meanings covered"
+  ],
+  "assurance_limits": [
+    "Supplied controller OS probes, home-baseline attestations, source/command hashes and implementation-generated logical inspection/lineage receipts are corroborated statically. No independently witnessed live OS or file-open/syscall tracing; no independent authentication of absent origin archives. No stronger assurance claim.",
+    "The two raw structural-output transfer directories are not separately present in this mirror. Their sealed manifest commitments are checked against all 23 supplied receiver transfer files and one another, with claims/receipts/custody linking them. This is hash-commitment verification, not a new adapter reproduction or direct inspection of missing original directories."
+  ],
+  "historical_scores": {
+    "original_evaluator": "25 PASS / 2 UNRESOLVED",
+    "later_v17_controller": "27 PASS",
+    "assessment": "Separate user-supplied history labels; absent underlying history neither reconstructed nor regraded."
+  },
+  "opposite_direction": "v21 Alpha->Beta not evaluated here; controller carries forward separately",
+  "pins": {
+    "Beta_export_manifest": {
+      "sha256": "3a4a11550f71a1ad0ec4d4594fa54953a4f00f4cce7f5b88712c683365d7cfbd",
+      "bytes": 1906
+    },
+    "Beta_bundle": {
+      "sha256": "5f0076f38db4ff9e77b712cf15a1db1a4f323531c36e26c8527746e97c884aa6",
+      "bytes": 53491
+    },
+    "Beta_consequences": {
+      "sha256": "2cee48c7a5e9ba8f5b1511972bc793355ab75dde0303a841b189ebd556b0862f",
+      "bytes": 44569
+    },
+    "adapter": {
+      "sha256": "eb17d1c09f2957802b809131dbdfd51b7bb9c58ed1425e27ccc3b0232d2d1c06",
+      "bytes": 9531
+    },
+    "transformed_input": {
+      "sha256": "77bf903507775b9b836a8ffbd43f12d29958a1903d0495ca6576ee3042468fb2",
+      "bytes": 47292
+    },
+    "Alpha_engine": {
+      "sha256": "069bbb6e00659fdb035f934fc0ef46d00362693f3f8b7bc7afae354e3096c5d9",
+      "bytes": 39153
+    },
+    "Alpha_catalogue": {
+      "sha256": "166d45780c867978821f5cabe1789655142f1c704c6a6715ef790ae947f92a99",
+      "bytes": 4841
+    },
+    "Alpha_results": {
+      "sha256": "78bc6e23eeaee0597ade6ab67fffd9d9dd5706f328a0b5c20a3e2cb48a4252e8",
+      "bytes": 35500
+    },
+    "independent_expectations": {
+      "sha256": "aabc5c88d11bbfa9d81c6e2cb8eb8ad10cfe659d8499a23b6246b9dd6e123007",
+      "bytes": 46943
+    }
+  }
+}

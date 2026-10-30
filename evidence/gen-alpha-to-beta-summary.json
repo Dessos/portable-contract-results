@@ -1,0 +1,153 @@
+{
+  "assessment": "Independent HOLY TRINITY Stage B Alpha->Beta native reconstruction evaluation",
+  "status": "PASS",
+  "conclusion": "Provider-replacement generalization demonstrated only for this specific sealed Alpha export and unchanged Beta native build/run pipeline on the exact six approved core runs, with supplied-attestation assurance limits.",
+  "direction": "Alpha->Beta",
+  "integrity": "PASS",
+  "native_import": "PASS",
+  "native_process": "PASS",
+  "transferred_material_reconstruction": "PASS",
+  "semantics": {
+    "status": "PASS",
+    "approved_runs": 6,
+    "required_emitted_consequences": 10,
+    "all_six_dimensions": {
+      "target": "PASS",
+      "exact_value_state_scalar_type": "PASS",
+      "unit": "PASS",
+      "effective_scope_query_boundaries": "PASS",
+      "computed_adjudicated_classification": "PASS",
+      "actual_authoritative_basis": "PASS"
+    },
+    "Alpha_vs_independent_facts": "PASS",
+    "Beta_vs_independent_facts": "PASS",
+    "approved_oracle_cross_check": "PASS",
+    "Alpha_vs_Beta": "PASS",
+    "shared_refusal": false,
+    "lineage": "PASS",
+    "material_discrepancies": 0
+  },
+  "export": {
+    "files_including_manifest": 10,
+    "groups": 2,
+    "runs": 6,
+    "available_records": 48,
+    "unavailable_records": 0,
+    "sender_consequences": 10,
+    "independent_index_and_lineage_closure": "PASS"
+  },
+  "evidence_validity": {
+    "status": "VALID_WITH_ATTESTATION_LIMITS",
+    "independently_checked": "Supplied bytes/hashes/inventory, strict JSON, pointers/references, unchanged source text, fixed capability bindings, native-bundle derivation, arithmetic/UTC behavior and actual material basis.",
+    "controller_attested": "Original runtime OS identity/isolation/mounts/network/UID/capabilities, fresh home/empty output, forbidden-file absence, before/after checks, execution times and sealing before comparison.",
+    "independent_OS_file_open_trace": false
+  },
+  "attempts": {
+    "allowance": "GEN-v0.1-STAGE-B-ALPHA-TO-BETA-NATIVE-1",
+    "native_batches_consumed": 1,
+    "native_constituent_commands": 2,
+    "native_commands_exit_codes": [
+      0,
+      0
+    ],
+    "remaining_native_batches": 0,
+    "native_retries": 0,
+    "adapters": 0,
+    "adapted_attempts": 0,
+    "evaluator_implementation_runner_test_CLI_import_compile_execute_calls": 0,
+    "evaluation_process_resumption_is_additional_semantic_attempt": false
+  },
+  "exact_seals": {
+    "export": {
+      "sha256": "9e4d1ed951d28a4e3fe36ebabcc26270c502b7d7016087453558966089dbecb4",
+      "bytes": 1593
+    },
+    "admission": {
+      "sha256": "e42d16ae9c15836408dba179e110f42e7818a2d99db8c993ce83687383d71a2e",
+      "bytes": 1942
+    },
+    "receiver-output": {
+      "sha256": "401715422ffdbb584e9784e00414deb3e6d3ebd9e46605950f25e31f9c66bac3",
+      "bytes": 1275
+    },
+    "Alpha-provenance": {
+      "sha256": "f156fe8d540152055f07efc02ef987adea352f90d852bde6a7884c601e83dc7b",
+      "bytes": 835
+    }
+  },
+  "key_artifact_hashes": {
+    "export/cases.json": {
+      "sha256": "9263006336db30a3977cfbe8c2e40a36be0edea2337571927e56db88e529aed5",
+      "bytes": 47895
+    },
+    "export/consequences.json": {
+      "sha256": "55f58f7259e32ab54ce2dcd0c1e1f08b8218c624c94a8b6068e0440b5cfda019",
+      "bytes": 35500
+    },
+    "oracle/core-expected.json": {
+      "sha256": "0ec738f47b8ddc98cc1a47837a2b55fecff03db3dd22ccb04b8f1da4e043ecb4",
+      "bytes": 19733
+    },
+    "Beta-own/source/beta.py": {
+      "sha256": "1e4ec3b65b50da08196c5a9b062095fa8b994b18710a7b2a790178fca57c5ba0",
+      "bytes": 40297
+    },
+    "Beta-own/model/meaning-bindings.json": {
+      "sha256": "6d67c072b84e1c91c98bf7a5d40b0219ef86561b6b391ab09e863eb5e3a8cd76",
+      "bytes": 5453
+    },
+    "receiver-output/native-beta-bundle.json": {
+      "sha256": "5f0076f38db4ff9e77b712cf15a1db1a4f323531c36e26c8527746e97c884aa6",
+      "bytes": 53491
+    },
+    "receiver-output/results.json": {
+      "sha256": "2cee48c7a5e9ba8f5b1511972bc793355ab75dde0303a841b189ebd556b0862f",
+      "bytes": 44569
+    },
+    "actual-controls/PLAN.json": {
+      "sha256": "d136324a7f135a6c44052ed54bfe9fa899af3bf66a2d1a275b27f9823b0cc381",
+      "bytes": 851
+    },
+    "actual-controls/INPUTS.json": {
+      "sha256": "bf08934935d6f81a9994f15de2f5f113cae240e230511ddb77802ae7c34b3c00",
+      "bytes": 2179
+    },
+    "actual-controls/runner.py": {
+      "sha256": "5ffdf85b1bace30cefb248581d7d3af974bfd0f09f4a9d3c548d646cdbd02eb4",
+      "bytes": 2066
+    }
+  },
+  "raw_provider_lifecycle_markers_preserved": true,
+  "scope_and_limits": [
+    "Only this sealed Alpha export -> unchanged Beta native build/run pipeline, exactly six approved core runs and ten consequences.",
+    "No whole-envelope importer, generic sender-consequence validator, universal rule-language support, full 17-case or new-domain conformance, production or constitutional conclusion.",
+    "No reverse direction; Beta->Alpha unapproved; GX01 budget 0; old Stage A/recovery/R1 allocations remain consumed; no automatic or authorized profile revision.",
+    "OS/runtime isolation, fresh home/output, forbidden-path absence, interpreter/module identity and chronology/seal-before-comparison rely on supplied controller attestations. No independent OS file-open trace.",
+    "Supplied source hashes bind audit copies to admission/origin receipts; historical source archives, independent authorship signatures, claimed prior 18 custody trees and original evaluator scores versus v17 are not supplied or reconstructed.",
+    "Export controller packaging is not a fresh Alpha implementation execution or original team re-signature. Synthetic external recognition is a stipulated authoritative model, not proof of real institutional authority.",
+    "Finite exact-text capability inventory; adjudicated/adverse refusal cases beyond covered complete core facts remain untested.",
+    "Provider lifecycle markers remain literal in immutable source artifacts. Client infrastructure ERROR is preserved; resumed static assessment consumed no new semantic attempt."
+  ],
+  "historical_original_evaluator_scores_versus_v17": "ABSENT; NOT_RECONSTRUCTED",
+  "Beta_to_Alpha": "UNAPPROVED",
+  "GX01_budget": 0,
+  "old_Stage_A_recovery_R1_allowances": "CONSUMED; unchanged",
+  "profile_revision": "NOT_AUTHORIZED",
+  "audit_checks": {
+    "passed": 1360,
+    "failed": 0
+  },
+  "evidence_files": [
+    "audit-checks.json",
+    "reconstruction-evidence.json",
+    "consumption-evidence.json",
+    "source-flow-evidence.json",
+    "reference-closure.json",
+    "independent-expectations.json",
+    "observable-differences.json",
+    "custody-and-runtime-evidence.json",
+    "input-hashes-before.json",
+    "input-hashes-after.json",
+    "final-input-verification.json"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "run_count_per_team": 27,
+  "group_count_per_team": 17,
+  "emitted_consequences_per_team": 37,
+  "teams": {
+    "Alpha": {
+      "level_1": "PASS",
+      "required_source_behavior": "PASS",
+      "lineage_for_tested_artifacts": "PASS",
+      "level_2": "UNRESOLVED",
+      "level_2_runs": {
+        "PASS": 25,
+        "UNRESOLVED": 2
+      },
+      "level_3": "NOT_RUN",
+      "full_conformance": "UNRESOLVED"
+    },
+    "Beta": {
+      "level_1": "PASS",
+      "required_source_behavior": "PASS",
+      "lineage_for_tested_artifacts": "PASS",
+      "level_2": "UNRESOLVED",
+      "level_2_runs": {
+        "PASS": 25,
+        "UNRESOLVED": 2
+      },
+      "level_3": "NOT_RUN",
+      "full_conformance": "UNRESOLVED"
+    }
+  },
+  "provider_replacement": {
+    "Alpha_to_Beta": {
+      "R0_import": "NOT_RUN",
+      "R0_semantics": "NOT_RUN",
+      "R1_import": "NOT_RUN",
+      "R1_semantics": "NOT_RUN",
+      "evidence_validity": "NOT_RUN"
+    },
+    "Beta_to_Alpha": {
+      "R0_import": "NOT_RUN",
+      "R0_semantics": "NOT_RUN",
+      "R1_import": "NOT_RUN",
+      "R1_semantics": "NOT_RUN",
+      "evidence_validity": "NOT_RUN"
+    }
+  },
+  "S01": "OPEN",
+  "S02": "OPEN",
+  "S03": "OPEN",
+  "diagnostic_scope": "Independent read-only assessment of approved fixed inputs and outputs; no provider import, fixture mutation or team engine imports."
+}

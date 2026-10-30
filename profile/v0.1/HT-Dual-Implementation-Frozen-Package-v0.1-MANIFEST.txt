@@ -1,0 +1,10 @@
+HOLY TRINITY — DUAL IMPLEMENTATION FROZEN PACKAGE v0.1
+Authoritative source: 2026-09-28_holy-trinity_profile-specification-design-01.md
+
+HT-Minimum-Normative-Profile-Draft-0.1.md
+SHA256 6df464b770069c7f9f2184b319bf706d0eecb5d4bf7c40d486abadb7a3e0b09a
+
+HT-Reference-Consequence-Corpus-v0.1.md
+SHA256 51aef8459ccafc1723c9419991614ff6bc3a80bf877cd11b9615b5876f18f21d
+
+Experiment rule: Alpha and Beta must receive byte-identical copies of these two Markdown artifacts.

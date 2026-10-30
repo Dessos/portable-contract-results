@@ -1,0 +1,12 @@
+*.eml
+.env
+.env.*
+__pycache__/
+00-controller/
+03-session-results/
+04-history/
+05-experiment-control/
+06-submissions/
+07-evaluation/
+PUBLICATION-REVIEW.md
+PUBLICATION-HANDOFF.md
