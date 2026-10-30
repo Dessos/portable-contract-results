@@ -20,6 +20,7 @@ The six roles are ContractStateAnchor, NormativePosition, ObjectiveRule, Evidenc
 
 ## Start here
 
+- [First-review guide: trace the existing fulfillment case](REVIEW-GUIDE.md)
 - [Frozen normative profile](profile/v0.1/HT-Minimum-Normative-Profile-Draft-0.1.md)
 - [Frozen 17-case semantic corpus](profile/v0.1/HT-Reference-Consequence-Corpus-v0.1.md)
 - [Original package and integrity manifest](profile/v0.1/HT-Dual-Implementation-Frozen-Package-v0.1-MANIFEST.txt)
@@ -38,7 +39,7 @@ This repository includes selected result summaries, not the implementation code,
 
 ## Feedback we are seeking
 
-For a first review, start with the example above, then the profile and results. AI-agent developers, contract-automation engineers, and practitioners who reconcile contractual obligations can help answer three questions:
+For a first review, use the [review guide](REVIEW-GUIDE.md), then the profile and results. AI-agent developers, contract-automation engineers, and practitioners who reconcile contractual obligations can help answer three questions:
 
 1. Can an existing contract workflow supply the recognized state, rule meaning, evidence, qualification and coverage needed for one useful consequence?
 2. Can independent mappings reproduce the consequence and its material basis without private clarification?

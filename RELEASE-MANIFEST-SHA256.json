@@ -2,7 +2,7 @@
   "format": "ht-public-release-sha256/1",
   "prepared_on": "2026-10-30",
   "frozen_profile_version": "0.1_UNCHANGED",
-  "publication": "Public documentation package; Portable Contract Results branding",
+  "publication": "Public documentation package; existing-case reviewer walkthrough",
   "license": "CC-BY-4.0",
   "files": {
     ".github/ISSUE_TEMPLATE/feedback.md": {
@@ -22,8 +22,8 @@
       "bytes": 18657
     },
     "README.md": {
-      "sha256": "4cfd8158e27e229079a196864f810ce51eddc050f177be3daa57746c032395ba",
-      "bytes": 5385
+      "sha256": "ad73d28bda9034f1541b4cdf4dfc17b1123ad9c85070f98b947245382b60a8c5",
+      "bytes": 5473
     },
     "RESULTS.md": {
       "sha256": "e0a716a17b81dfc4c422060c2e6b5e3105f90cc698bf6671c1a4e6210305e937",
@@ -56,6 +56,10 @@
     "profile/v0.1/HT-Reference-Consequence-Corpus-v0.1.md": {
       "sha256": "51aef8459ccafc1723c9419991614ff6bc3a80bf877cd11b9615b5876f18f21d",
       "bytes": 11320
+    },
+    "REVIEW-GUIDE.md": {
+      "sha256": "fd46d4aa922a766d747102d66da934233a40ccd66a413c091631caae8a6e3602",
+      "bytes": 5574
     }
   },
   "excludes": [
