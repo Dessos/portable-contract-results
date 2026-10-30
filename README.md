@@ -21,6 +21,7 @@ The six roles are ContractStateAnchor, NormativePosition, ObjectiveRule, Evidenc
 ## Start here
 
 - [First-review guide: trace the existing fulfillment case](REVIEW-GUIDE.md)
+- [Propose a real-workflow study: participant brief](PARTICIPANT-BRIEF.md) ([one-page PDF](PARTICIPANT-BRIEF.pdf))
 - [Frozen normative profile](profile/v0.1/HT-Minimum-Normative-Profile-Draft-0.1.md)
 - [Frozen 17-case semantic corpus](profile/v0.1/HT-Reference-Consequence-Corpus-v0.1.md)
 - [Original package and integrity manifest](profile/v0.1/HT-Dual-Implementation-Frozen-Package-v0.1-MANIFEST.txt)

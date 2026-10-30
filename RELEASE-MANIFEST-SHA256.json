@@ -2,7 +2,7 @@
   "format": "ht-public-release-sha256/1",
   "prepared_on": "2026-10-30",
   "frozen_profile_version": "0.1_UNCHANGED",
-  "publication": "Public documentation package; existing-case reviewer walkthrough",
+  "publication": "Public documentation package; existing-case review guide and proposed workflow participant brief",
   "license": "CC-BY-4.0",
   "files": {
     ".github/ISSUE_TEMPLATE/feedback.md": {
@@ -22,8 +22,8 @@
       "bytes": 18657
     },
     "README.md": {
-      "sha256": "ad73d28bda9034f1541b4cdf4dfc17b1123ad9c85070f98b947245382b60a8c5",
-      "bytes": 5473
+      "sha256": "7c1fe866de73777f97989ff02654834a562d1e6a2814134e3a101439a487ec70",
+      "bytes": 5588
     },
     "RESULTS.md": {
       "sha256": "e0a716a17b81dfc4c422060c2e6b5e3105f90cc698bf6671c1a4e6210305e937",
@@ -60,6 +60,14 @@
     "REVIEW-GUIDE.md": {
       "sha256": "fd46d4aa922a766d747102d66da934233a40ccd66a413c091631caae8a6e3602",
       "bytes": 5574
+    },
+    "PARTICIPANT-BRIEF.md": {
+      "sha256": "b2e842b4a93b93035f1c9e03bc6b2b4b15f60a8f9f2aaff480e7d5175b1171d5",
+      "bytes": 3059
+    },
+    "PARTICIPANT-BRIEF.pdf": {
+      "sha256": "018c1d78f5aa398180b6c013931e6b4a8a4daf3eb907e81fb82d3c3bb15a9f7a",
+      "bytes": 4276
     }
   },
   "excludes": [
